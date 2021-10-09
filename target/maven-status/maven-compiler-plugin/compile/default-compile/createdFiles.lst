@@ -1,0 +1,9 @@
+OBCBANCK\web\components\JsUpdate.class
+OBCBANCK\web\components\TextLabel.class
+OBCBANCK\MyApplicationModule.class
+OBCBANCK\ResponseLogger.class
+OBCBANCK\web\components\JsComponent.class
+OBCBANCK\web\views\FrontView.class
+OBCBANCK\ServletConfig.class
+OBCBANCK\web\components\JsInit.class
+OBCBANCK\web\views\RootView.class
